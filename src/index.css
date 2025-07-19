@@ -60,6 +60,11 @@ All colors MUST be HSL.
     --shadow-glow: 0 0 40px hsl(var(--accent) / 0.3);
     --shadow-yellow: 0 0 30px hsl(var(--yellow) / 0.4);
     --shadow-red: 0 0 30px hsl(var(--red) / 0.3);
+    
+    /* 3D Effect Variables */
+    --perspective: 1000px;
+    --preserve-3d: preserve-3d;
+    --transform-style: preserve-3d;
 
     --radius: 0.5rem;
 
@@ -138,5 +143,113 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    perspective: var(--perspective);
+  }
+}
+
+/* 3D Effect Utilities */
+@layer utilities {
+  .transform-3d {
+    transform-style: preserve-3d;
+  }
+
+  .perspective {
+    perspective: var(--perspective);
+  }
+
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  /* 3D Card Effects */
+  .card-3d {
+    transform: perspective(1000px) rotateX(0deg) rotateY(0deg);
+    transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+  }
+
+  .card-3d:hover {
+    transform: perspective(1000px) rotateX(-5deg) rotateY(5deg) translateZ(20px);
+    box-shadow: 
+      0 25px 50px -12px rgba(0, 0, 0, 0.25),
+      0 0 0 1px rgba(255, 255, 255, 0.1);
+  }
+
+  /* 3D Button Effects */
+  .btn-3d {
+    transform: perspective(600px) rotateX(0deg);
+    transition: all 0.2s ease-out;
+    position: relative;
+  }
+
+  .btn-3d:hover {
+    transform: perspective(600px) rotateX(-10deg) translateZ(10px);
+  }
+
+  .btn-3d:active {
+    transform: perspective(600px) rotateX(5deg) translateZ(-5px);
+  }
+
+  /* 3D Icon Effects */
+  .icon-3d {
+    transform: perspective(300px) rotateX(0deg) rotateY(0deg);
+    transition: transform 0.3s ease-out;
+  }
+
+  .icon-3d:hover {
+    transform: perspective(300px) rotateX(15deg) rotateY(15deg) translateZ(10px);
+  }
+
+  /* Floating 3D Effect */
+  .float-3d {
+    animation: float3d 6s ease-in-out infinite;
+  }
+
+  @keyframes float3d {
+    0%, 100% { 
+      transform: perspective(1000px) rotateX(0deg) rotateY(0deg) translateZ(0px);
+    }
+    25% { 
+      transform: perspective(1000px) rotateX(2deg) rotateY(-2deg) translateZ(10px);
+    }
+    50% { 
+      transform: perspective(1000px) rotateX(0deg) rotateY(2deg) translateZ(5px);
+    }
+    75% { 
+      transform: perspective(1000px) rotateX(-2deg) rotateY(0deg) translateZ(15px);
+    }
+  }
+
+  /* Parallax Layers */
+  .parallax-near {
+    transform: perspective(1000px) translateZ(50px);
+  }
+
+  .parallax-mid {
+    transform: perspective(1000px) translateZ(0px);
+  }
+
+  .parallax-far {
+    transform: perspective(1000px) translateZ(-50px);
+  }
+
+  /* 3D Image Gallery Effects */
+  .gallery-3d {
+    transform: perspective(800px) rotateY(0deg);
+    transition: all 0.4s ease-out;
+    transform-origin: center center;
+  }
+
+  .gallery-3d:hover {
+    transform: perspective(800px) rotateY(-10deg) rotateX(5deg) scale(1.05);
+  }
+
+  /* Tilt Effect for Cards */
+  .tilt-3d {
+    transform: perspective(1000px) rotateX(0deg) rotateY(0deg);
+    transition: transform 0.3s ease-out;
+  }
+
+  .tilt-3d:hover {
+    transform: perspective(1000px) rotateX(var(--rotate-x, 0deg)) rotateY(var(--rotate-y, 0deg));
   }
 }
