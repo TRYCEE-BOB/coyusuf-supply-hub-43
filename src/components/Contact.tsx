@@ -32,7 +32,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-primary" />
                 </div>
                   <div>
-                    <p className="text-muted-foreground">0720745010</p>
+                    <p className="text-muted-foreground">0111641355</p>
                     <p className="text-muted-foreground">0729147145</p>
                   </div>
               </div>
@@ -123,7 +123,7 @@ const Contact = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               className="bg-accent hover:bg-accent-light text-accent-foreground shadow-glow"
-              onClick={() => window.location.href = 'tel:0720745010'}
+              onClick={() => window.location.href = 'tel:0111641355'}
             >
               Call Now
             </Button>
