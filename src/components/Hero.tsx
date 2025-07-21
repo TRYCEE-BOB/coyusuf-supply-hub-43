@@ -71,7 +71,7 @@ const Hero = () => {
           <div className="flex justify-center lg:justify-end animate-slide-in parallax-mid">
             <div className="bg-background/10 backdrop-blur-sm rounded-3xl p-8 shadow-elegant card-3d">
               <img 
-                src="/lovable-uploads/f63bcfbe-a396-4c10-b8cb-8ec108c8e53d.png" 
+                src="/lovable-uploads/d80c18cd-5aef-4660-8d6e-d52c8f792b65.png" 
                 alt="Coyusuf General Supplies" 
                 className="w-full max-w-md h-auto float-3d"
               />

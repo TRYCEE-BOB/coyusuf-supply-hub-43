@@ -23,7 +23,7 @@ const Header = () => {
             <img 
               src="/lovable-uploads/d80c18cd-5aef-4660-8d6e-d52c8f792b65.png" 
               alt="Coyusuf General Supplies" 
-              className="h-16 md:h-24 w-auto"
+              className="h-20 md:h-32 w-auto"
             />
           </div>
 
