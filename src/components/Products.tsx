@@ -312,6 +312,27 @@ const Products = () => {
                   className="w-full h-auto object-contain"
                 />
               </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/9cdd0ead-5cbe-47b8-be20-c0d69fddb770.png" 
+                  alt="Beauty Clinic Fabric Softener - Fresh Spirit with unbelievable shine & freshness"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/378b0548-f5c5-41ef-8d6c-d67f6ee82c70.png" 
+                  alt="Beauty Clinic Fabric Softener - Oudh with unbelievable shine & freshness"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/77ab3712-5cfc-445c-86f8-af7d3256c710.png" 
+                  alt="Beauty Clinic Dishwash Liquid - Strawberry scent, kills 99.9% germs"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
             </div>
           </div>
 
@@ -400,6 +421,55 @@ const Products = () => {
                 <img 
                   src="/lovable-uploads/82292508-9a59-43d7-b8ec-8b578feabd5a.png" 
                   alt="Beauty Clinic SPF 90 Vitamin C Whitening Sunscreen"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/9760cc52-2899-4917-bb7f-34d874ac60e9.png" 
+                  alt="Beauty Clinic Non-Foaming Shaving Gel for easy shave on all skin types"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/5754369d-7630-438b-802f-17129c6014f1.png" 
+                  alt="Beauty Clinic Non-Foaming Shaving Gel 1000ml for perfect shave"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/663609c7-da89-4f4c-b31e-b01b83506500.png" 
+                  alt="Beauty Clinic Non-Foaming Shaving Gel 1300ml with moisturizers"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/14929077-2e33-4e4f-ba16-2dcb0c549d5b.png" 
+                  alt="Beauty Clinic After Shave Cologne - Deep Impact with protection & moisturizing"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/13d650e9-65e0-4ace-80be-65177c799a53.png" 
+                  alt="Beauty Clinic Shower Gel - Ocean Blue with natural fragrance and moisturizing effect"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/d6573eb4-c270-4376-b197-33dd17aedf52.png" 
+                  alt="Beauty Clinic Hair Gel - Regular Look premium quality"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/17161e24-74c6-4ef6-b33c-efebcc7ba59d.png" 
+                  alt="Beauty Clinic Hot Oil Hair Treatment Cream - Mix Fruit for beautiful silky hair"
                   className="w-full h-auto object-contain"
                 />
               </div>
