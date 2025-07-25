@@ -473,6 +473,76 @@ const Products = () => {
                   className="w-full h-auto object-contain"
                 />
               </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/298c22fc-2008-4311-a8e7-b3aa80ef024e.png" 
+                  alt="Beauty Clinic Hot Oil Hair Treatment Cream - Aloe vera for beautiful silky hair"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/f1b3c650-09e0-411e-a8e3-49f7bc51b8d0.png" 
+                  alt="Beauty Clinic Hot Oil Hair Treatment Cream - Snake natural hair care"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/fb0f5b7e-e530-40a6-bb88-e01251e0d8f5.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash - Strawberry Extract 1000ml"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/5f4c87b6-40fe-4023-9de0-56b96b8d9875.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Shea Butter extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/99e3de35-9043-4987-a935-38869bd31adc.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash - Shea Butter Extract promotional"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/e4891c27-5549-4c7f-9b9b-97b7291c7428.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Milk extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/3825969d-b2d2-444f-9c09-8a3e0a3b6caf.png" 
+                  alt="Beauty Clinic Shower Gel collection - Lavender, Mix Fruit, Ocean Blue, Red Rose"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/38b655de-4446-4f6f-97f0-cd4653dd6b91.png" 
+                  alt="Beauty Clinic Shower Gel - Mix Fruit with revitalizing gel and moisturizing effect"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/3ad25900-b701-4a84-8075-12ec37641140.png" 
+                  alt="Beauty Clinic Shower Gel - Lavender with revitalizing gel and moisturizing effect"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/fe63601d-1240-4477-8780-7ef9141fc77f.png" 
+                  alt="Beauty Clinic skincare collection - Beauty Serum, Glycerin, Rose Water, Vitamin C Lotion, Papaya Whitening Body Lotion"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
             </div>
           </div>
         </div>
