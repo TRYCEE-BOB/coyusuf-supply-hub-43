@@ -333,6 +333,76 @@ const Products = () => {
                   className="w-full h-auto object-contain"
                 />
               </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/cefa51bb-2bac-47a2-a4eb-18091ab302d5.png" 
+                  alt="Beauty Clinic Hair Removal Cream with Cucumber extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/d4dcdd48-a31f-418d-99cc-5ee4bd0626d9.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Strawberry extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/608bfb5d-8406-4b4f-a00e-e44c1d321011.png" 
+                  alt="Beauty Clinic Hair Removal Cream with Lotus extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/8a505816-138c-4e22-ba5b-3a579eba3db4.png" 
+                  alt="Beauty Clinic Body Wash collection - various natural extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/831dc2ac-51b2-4675-8275-2a79fcced422.png" 
+                  alt="Beauty Clinic Nourishing Shampoo collection with natural extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/9d820ee8-71a7-4d38-89fc-0f7e603c7388.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Strawberry extracts bottle"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/901db02a-5294-4640-baa5-47b526eccdd1.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Papaya extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/31309762-8f63-47e7-b6ec-6a51c8fca2fb.png" 
+                  alt="Beauty Clinic Hair Gel - Mega Hold premium quality"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/d5f123b9-764b-499a-a2f3-6f989cc71763.png" 
+                  alt="Beauty Clinic Refreshing Face Wash with Lemon extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/82292508-9a59-43d7-b8ec-8b578feabd5a.png" 
+                  alt="Beauty Clinic SPF 90 Vitamin C Whitening Sunscreen"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
             </div>
           </div>
         </div>
