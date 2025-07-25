@@ -543,6 +543,76 @@ const Products = () => {
                   className="w-full h-auto object-contain"
                 />
               </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/ee072843-dce0-433f-9259-d010786859cc.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash with Milk Protein Extract"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/7d1db3ed-3cdd-41b7-ab6a-ad2eef62c888.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash with Strawberry Extract promotional"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/8416f844-6e3f-40cb-94ce-328d9dcc759e.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash with Shea Butter Extract lifestyle"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/56cbe61e-d0d3-4ebe-9ab7-0d25ae624348.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash with Papaya Extract lifestyle"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/69ea5eb8-55cc-4f4f-9abf-1f059dd17988.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash collection - Strawberry, Papaya, Shea Butter, Milk, Coffee, Lavender, Oudh extracts"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/2b87a2d7-4ce1-4525-b9cd-66aad51b9241.png" 
+                  alt="Beauty Clinic comprehensive collection - Shower Gel, Face Wash, Sunscreen, Hand Wash, Face & Body Scrub"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/46d50362-b4ea-4851-bc09-88df0131043d.png" 
+                  alt="Beauty Clinic Facial Cleanser collection - Lemon, Cucumber, Papaya with anti-bacterial formula"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/47f982ff-1d97-4f25-bee8-994f4bff5bfb.png" 
+                  alt="Beauty Clinic Exfoliating Body Wash with Shea Butter extracts bottle"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/41050b6a-c693-413f-9e7a-23f082eee429.png" 
+                  alt="Beauty Clinic Brightening Exfoliating Body Wash complete collection with ultra moisturizing"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden shadow-elegant gallery-3d">
+                <img 
+                  src="/lovable-uploads/ace3bd36-2f7d-46b9-a592-e493d5a70ba2.png" 
+                  alt="Romantic Collection Perfumed Body Mist - Fresh & Floral fragrances collection"
+                  className="w-full h-auto object-contain"
+                />
+              </div>
             </div>
           </div>
         </div>
